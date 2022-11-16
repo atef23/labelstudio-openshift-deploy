@@ -4,4 +4,4 @@ Label Studio Deploy:
 
   oc new-project labelstudio
 
-  oc apply -f deploy/openshift/labelstudio
+  oc apply -f labelstudio/
